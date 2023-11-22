@@ -45,7 +45,7 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 
-H📺黑龙江地方频道,#genre#
+📺黑龙江地方频道,#genre#
 哈尔滨影视,http://39.134.67.226/PLTV/88888888/224/3221225700/index.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
@@ -86,7 +86,7 @@ H📺黑龙江地方频道,#genre#
 佳木斯新闻综合,http://39.134.65.151/PLTV/88888888/224/3221225993/1.m3u8?zheild
 佳木斯新闻综合,http://39.134.65.149/PLTV/88888888/224/3221225993/1.m3u8?zheild
 
-J📺吉林地方频道,#genre#
+📺吉林地方频道,#genre#
 吉林公共新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8
 吉林公共新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?_upt=b95938311531576098
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
@@ -102,7 +102,7 @@ J📺吉林地方频道,#genre#
 柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 
-L📺辽宁地方频道,#genre#
+📺辽宁地方频道,#genre#
 
 📺影视频道,#genre#
 CETV-1,http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8
