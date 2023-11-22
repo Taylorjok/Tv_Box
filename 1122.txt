@@ -24,11 +24,11 @@ CCTV-17(黑龙江移动[CDN]-1080P),http://ottrrs.hl.chinamobile.com/PLTV/888888
 贵州卫视(黑龙江移动[CDN]-576P),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
 海南卫视(黑龙江移动[CDN]-576P),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 河北卫视(黑龙江移动[CDN]-576P),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
-河南卫视,http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8?zweimd
-黑龙江卫视,http://140.207.241.3:8080/live/program/live/hljwshd/4000000/d1.m3u8
+河南卫视,http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8
+吉林卫视,http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
+黑龙江卫视,http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8
 湖北卫视(黑龙江移动[CDN]-1080P),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 湖南卫视(黑龙江移动[CDN]-1080P),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-吉林卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225680/index.m3u8
 江苏卫视(黑龙江移动[CDN]-1080P),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 辽宁卫视(黑龙江移动[CDN]-720P),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 内蒙古卫视(黑龙江移动[CDN]-576P),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
@@ -96,10 +96,7 @@ H📺黑龙江地方频道,#genre#
 黑龙江少儿,http://39.134.65.151/PLTV/88888888/224/3221226002/1.m3u8?zheild
 黑龙江少儿,http://39.134.65.145/PLTV/88888888/224/3221226002/1.m3u8?zheild
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-哈尔滨新闻综合,http://39.134.65.151/PLTV/88888888/224/3221225684/1.m3u8?zheild
 哈尔滨影,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
-哈尔滨影,http://39.134.65.151/PLTV/88888888/224/3221225700/1.m3u8?zheild
-哈尔滨影,http://39.134.65.149/PLTV/88888888/224/3221225700/1.m3u8?zheild
 哈尔滨资讯,http://39.134.65.149/PLTV/88888888/224/3221225697/1.m3u8?zheild
 哈尔滨资讯,http://39.134.65.151/PLTV/88888888/224/3221225697/1.m3u8?zheild
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
