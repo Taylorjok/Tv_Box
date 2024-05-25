@@ -1,0 +1,67 @@
+{
+  "sites": {
+    "default": 1,
+    "data": [
+      {
+	    "key": "naixiang",
+        "name": "奶香",
+        "api": "https://www.gdlsp.com/api/xml.php",
+        "playUrl": "",
+        "search": 1,
+        "group": "18",
+        "isActive": true,
+        "status": true,
+        "type": 1,
+        "id": 1
+      },
+	  {
+        "key": "baipiao",
+        "name": "白嫖",
+        "api": "https://www.kxgav.com/api/xml.php",
+        "playUrl": "",
+        "search": 1,
+        "group": "18",
+        "isActive": true,
+        "status": true,
+        "type": 1,
+        "id": 2
+      },
+	  {
+        "key": "yinshuiji",
+        "name": "饮水机",
+        "api": "https://www.xrbsp.com/api/xml.php",
+        "playUrl": "",
+        "search": 1,
+        "group": "18",
+        "isActive": true,
+        "status": true,
+        "type": 1,
+        "id": 3
+      },
+	  {
+        "key": "lebo",
+        "name": "乐播",
+        "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+        "playUrl": "",
+        "search": 1,
+        "group": "18",
+        "isActive": true,
+        "status": true,
+        "type": 1,
+        "id": 4
+      },
+	  {
+        "key": "jikun",
+        "name": "鸡坤",
+        "api": "https://jkunzyapi.com/api.php/provide/vod/at/xml",
+        "playUrl": "",
+        "search": 1,
+        "group": "18",
+        "isActive": true,
+        "status": true,
+        "type": 1,
+        "id": 5
+      }
+    ]
+  }
+}
